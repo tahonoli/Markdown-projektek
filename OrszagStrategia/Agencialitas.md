@@ -5,8 +5,11 @@
 * Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
 
 Arról ad hírt többekközt, hogy a 
+
 (1) Humanitys Last Exam benchmark kiértékelésénél; míg az önmagában álló o1 modell 9,1-et kap csak, addig a Deep Research 26,1-et, ami bődületes nagy - közel 3x-szoros - túlteljesítés
+
 (2) De az o3 mini high teljesítményére is ráduplázott. 
+
 Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak, így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyíltforrrásúval (smolagents). És a Gaiai agenciális benchmarkban 24 órán belül a 3.helyet sikerült így megszerezni. 
 
 A történetből számomra az a következtetés adódik, hogy nemcsak egyedül az AI modelleket lehet fejleszteni, hanem párhuzamosan más skill-eket is, amilyen az agencialitás, amik összesítés után jobb eredményekre vezethetnek.
