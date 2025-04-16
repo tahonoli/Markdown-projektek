@@ -44,12 +44,12 @@ A történetből számomra az a következtetés adódik, hogy:
 \- figyelembevéve, hogy az AI is, más országok is **fejlődnek**.  
 
 #### Amit kifejezetten nem keresek:  
-\- **Nem** a problémák gyökéroki megfejtését: akkor sem, ha a terápia a diagnózis után szokott következni. Ennek oka, hogy már a diagnózis is megoldhatatlan vitákba tudna csapni és ez akadályoz bármilyen terápia kiválasztását és megkezdését. Engem a terápia irányának keresése érdekel, amiben legjobban, legtöbb embernek lehet bíznia.  
-\- **Nem** a felelősök felkutatása izgat: ez csak társadalmi igazságérzetet gyógyítana aktuálisan és ez így már másik történet.
+\- NEM a problémák **gyökéroki megfejtését**: akkor sem, ha a terápia a diagnózis után szokott következni. Ennek oka, hogy már a diagnózis is megoldhatatlan vitákba tudna csapni és ez akadályoz bármilyen terápia kiválasztását és megkezdését. Engem a terápia irányának keresése érdekel, amiben legjobban, legtöbb embernek lehet bíznia.  
+\- NEM a **felelősök** felkutatása izgat: ez csak társadalmi igazságérzetet gyógyítana aktuálisan és ez így már másik történet.
 
 #### Tudomásul veszem:  
-\- a kiindulási alapot, hogy nincs (és nem is lesz egykönnyen) **anyagi erőforrás**, pl. AI-s hardverre, kutatásra  
-\- az időnyomást, ahol azonnali eredmények kellenek (mint fociban egy edzőtől)  
+\- a kiindulási alapot, hogy nincs (és nem is lesz egykönnyen) **anyagi erőforrás**, pl. AI-s hardverre, kutatásra.  
+\- az időnyomást, ahol azonnali eredmények kellenek (mint fociban egy edzőtől: a fociban is azonnal kell eredményeket produkálnia egy edzőnek, aki elbocsátanak pár vesztes meccs után, akár többéves szerződéséből is.)    
 \- az országok közti versenyhelyzetet: minden **másolható best practice-t** gyorsan beépítenek mások is
 
 ---
