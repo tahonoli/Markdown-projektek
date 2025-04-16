@@ -2,27 +2,21 @@
 
 ## User
 
-## OpenAI Deep Research és agencialitás
-
-Az alábbi OpenAI linken található a cég saját agent-es Deep Research-ének blogbejegyzése:
-
+## OpenAI Deep Research és agencialitás  
+Az alábbi OpenAI linken található a cég saját agent-es Deep Research-ének blogbejegyzése:  
 https://openai.com/index/introducing-deep-research/
 
-Arról ad hírt többek közt, hogy a **Humanity’s Last Exam** benchmark kiértékelésénél:
-
+Arról ad hírt többek közt, hogy a **Humanity’s Last Exam** benchmark kiértékelésénél:  
 - míg az önmagában álló `o1` modell **9,1** pontot kap csak,  
 - addig a **Deep Research** **26,1** pontot ér el,  
-ami bődületesen nagy – közel **3-szoros túlteljesítés**.
-
+ami bődületesen nagy – közel **3-szoros túlteljesítés**.  
 De az `o3 mini` high teljesítményére is ráduplázott.
 
 Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak,  
-így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyílt forráskóddal (`smolagents`).
-
+így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyílt forráskóddal (`smolagents`).  
 És a **Gaia-i agenciális benchmarkban** 24 órán belül a **3. helyet** sikerült így megszerezni.
 
-A történetből számomra az a következtetés adódik, hogy:
-
+A történetből számomra az a következtetés adódik, hogy:  
 - nemcsak magukat az AI modelleket lehet fejleszteni,  
 - hanem párhuzamosan más skill-eket is, amilyen az **agencialitás**,  
 amelyek **összesítés után jobb eredményekhez** vezethetnek.
