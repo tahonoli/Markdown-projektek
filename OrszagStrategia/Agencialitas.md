@@ -7,14 +7,14 @@ Arról ad hírt többekközt, hogy a 
 (1) Humanitys Last Exam benchmark kiértékelésénél; míg az önmagában álló o1 modell 9,1-et kap csak, addig a Deep Research 26,1-et, ami bődületes nagy - közel 3x-szoros - túlteljesítés
 (2) De az o3 mini high teljesítményére is ráduplázott. Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak, így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyíltforrrásúval (smolagents). És a Gaiai agenciális benchmarkban 24 órán belül a 3.helyet sikerült így megszerezni. A történetből számomra az a következtetés adódik, hogy nemcsak egyedül az AI modelleket lehet fejleszteni, hanem párhuzamosan más skill-eket is, amilyen az agencialitás, amik összesítés után jobb eredményekre vezethetnek.
 https://openai.com/index/introducing-deep-research/ 
-++++
+
 Mint korábbi beszélgetéseinkből tudhatod nagyon szeretek analógiákban gondolkodni, egyszerűsítés és megértés óhajaival. Van egy régi nagy fixa ideám, amit most megosztanék veled. Azt sejtem, hogy annak megoldására analógia lehet a fenti agenciális kiterjesztés megközelítési módja. 
-++++
+
 Magyarország, szerintem: 
 - kicsi, a népek sokaságának nagy tengerében. 
 - anyagilag, szellemileg, lelkileg, társadalmilag (mint hálózat) kifosztott, leépített, roncsolódott. 
 - hiába EU-tag, EU-n belül többtíz mutatóban a legutolsó (elötti) helyre küzdötte le magát, szívós és kitartó munkával, az utóbbi 15 évben minimum. 
-++++ 
+
 Az én nagy kérdésem, hogy a minél reálisabb helyzetértékelésre törekedés után, a fentiekben jellemzett Magyarország, milyen könnyen nem másolható országstratégiával tudna kitörni sanyarú helyzetéből, figyelembevéve, hogy az AI is, más országok is fejlődnek. Nagyon fontos, hogy 
 - Nem a problémák gyökéroki megfejtését keresem, akkor sem, ha a terápia a diagnózis után szokott következni. 
 Ennek oka, hogy már a diagnózis is megoldhatatlan vitákba tudna csapni és ez akadályoz bármilyen terápia kiválasztását és megkezdését. 
@@ -29,7 +29,7 @@ Pusztán csak az érdekel,
 - mik lehetnek kitörési pontok?
 - Kifejezetten NEM brute force alapokon, hogy pl.: majd jobb AI modelleket csinál és jobb lesz még az USÁ-nál is Magyarország,
 - hanem kanyarban előzőset ("á lá agenciálisat"), olyan területre fókuszálva, amit sokan/mindenki hanyagol ilyen-olyan okok miatt.
-++++
+
 Az én AI-s analógiám ez lenne a problémához: 
 - Egy-egy ember sosem tud elég okos ÉS döntésképes lenni, hogy kirángasson egy országot.
 - Kötelezőnek látszik a munkamegosztás, időben jelentősen el is nyújtva: IT-ben lásd párhuzamosodás.
@@ -41,7 +41,7 @@ Az én AI-s analógiám ez lenne a problémához: 
  (2) a párhuzamos szálak nem egyenlően terheltek
  (3) a szálak egymást akadályozzák, sőt akár roncsolják egymás teljesítményét (emberi közösségben pl.: értelmetlen sehova nem vezető vitákkal)
 - KONKLÚZIÓ: kitörési pont lehet talán az egyénieskedés, illuziókergetés helyett a közös, osztott értékképzés, ahol pusztító energiák nélkül mindennek helye van a társadalomban. 
-++++ 
+
 - A fentihez keresem az alátámasztó és ellenző érveléseket tőled. Az igazság talaján állva, törekedj a legteljesebb kritikára. 
 - Egy ellenző érvelés lehet, hogy pénzhez jutni lehet sokszor könnyebb, mint társadalom gondolkodását, mentalitását megváltoztatni.
 - lletve milyen hasonlóan jó vagy egyenesen jobb, reálisabb, megvalósíthatóbb gondolatot tudsz ajánlani könnyen nem másolható országstratégiának?
