@@ -9,12 +9,12 @@ https://openai.com/index/introducing-deep-research/
 Arról ad hírt többek közt, hogy a **Humanity’s Last Exam** benchmark kiértékelésénél:  
 \- míg az önmagában álló `o1` modell **9,1** pontot kap csak,  
 \- addig a **Deep Research** **26,1** pontot ér el,  
-ami bődületesen nagy – közel **3-szoros túlteljesítés**.  
-De az `o3 mini` high teljesítményére is ráduplázott.
+\- ami bődületesen nagy – közel **3-szoros túlteljesítés**.    
+\- de az **o3 mini high** teljesítményére is ráduplázott.  
 
-Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak,  
-így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyílt forráskóddal (`smolagents`).  
-És a **Gaia-i agenciális benchmarkban** 24 órán belül a **3. helyet** sikerült így megszerezni.
+Mivel mind az OpenAI o1,o3 modellek, mind a Deep Research **zárt forrásúak**,  
+\- így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyílt forráskóddal (`smolagents`).  
+\- és a **Gaia-i agenciális benchmarkban** 24 órán belül a **3. helyet** sikerült így megszerezni.
 
 A történetből számomra az a következtetés adódik, hogy:  
 \- nemcsak magukat az AI modelleket lehet fejleszteni,  
@@ -24,91 +24,77 @@ amelyek **összesítés után jobb eredményekhez** vezethetnek.
 ---
 
 ## Egy analóg gondolat: Magyarország kitörési lehetőségei  
-Mint korábbi beszélgetéseinkből tudhatod, nagyon szeretek analógiákban gondolkodni, az egyszerűsítés és megértés óhajával.  
-Van egy régi nagy fixa ideám, amit most megosztanék veled.  
-Azt sejtem, hogy **annak megoldására analógia lehet** a fenti agenciális kiterjesztés megközelítési módja.  
-
----
+\* Mint korábbi beszélgetéseinkből tudhatod, nagyon szeretek **analógiákban gondolkodni**, az egyszerűsítés és megértés óhajával.  
+\* Van egy **régi nagy fixa ideám**, amit most megosztanék veled.  
+\* Azt sejtem, hogy annak **megoldására** analógia lehet a fenti agenciális kiterjesztés megközelítési módja.  
 
 ### Magyarország, szerintem:
-\- kicsi, a népek sokaságának nagy tengerében  
-\- anyagilag, szellemileg, lelkileg, társadalmilag (mint hálózat) kifosztott, leépített, roncsolódott  
+\- **kicsi**, a népek sokaságának nagy tengerében  
+\- anyagilag, szellemileg, lelkileg, társadalmilag (mint hálózat) kifosztott, leépített, **roncsolódott**    
 \- hiába EU-tag, az EU-n belül több tucat mutatóban a **legutolsó (vagy utolsó előtti)** helyre küzdötte le magát, szívós és kitartó munkával, az utóbbi 15 évben minimum
 
 ---
 
 ### A kérdésem:  
-Miután törekszünk a **minél reálisabb helyzetértékelésre**,  
-milyen **nem másolható országstratégiával** tudna **kitörni Magyarország** ebből a sanyarú helyzetből     
-**figyelembe véve, hogy az AI is, más országok is fejlődnek?**  
+\- a minél **reális**abb helyzetértékelésre törekedés után,   
+\- a fentiekben jellemzett **Magyarország**,   
+\- milyen **könnyen NEM másolható országstratégiával** tudna kitörni sanyarú helyzetéből,   
+\- figyelembevéve, hogy az AI is, más országok is **fejlődnek**.  
 
 #### Amit kifejezetten nem keresek:  
-- **Nem** a problémák gyökéroki megfejtését  
-- **Nem** a felelősök felkutatását  
+\- **Nem** a problémák gyökéroki megfejtését: akkor sem, ha a terápia a diagnózis után szokott következni. Ennek oka, hogy már a diagnózis is megoldhatatlan vitákba tudna csapni és ez akadályoz bármilyen terápia kiválasztását és megkezdését. Engem a terápia irányának keresése érdekel, amiben legjobban, legtöbb embernek lehet bíznia.  
+\- **Nem** a felelősök felkutatása izgat: ez csak társadalmi igazságérzetet gyógyítana aktuálisan és ez így már másik történet.
 
-#### Tudomásul veszem:
-
-- a kiindulási alapot, hogy **nincs (és nem is lesz egykönnyen) anyagi erőforrás**, pl. AI-s hardverre, kutatásra  
-- az időnyomást, ahol azonnali eredmények kellenek (mint fociban egy edzőtől)  
-- az országok közti versenyhelyzetet: minden **másolható best practice-t** gyorsan beépítenek mások is
-
----
-
-### Ami érdekel:
-
-Ha **tiszta lappal indulna** Magyarország valamikor, valami okból, a kedvezőtlen feltételek közepette...
-
-#### Mik lehetnek a **kitörési pontok**?
-
-- Nem brute force módon, hogy majd jobb AI modelleket gyártunk és jobbak leszünk az USÁ-nál  
-- Hanem **„kanyarban előző” módon**, olyan területre fókuszálva, amit más országok **elhanyagolnak**
+#### Tudomásul veszem:  
+\- a kiindulási alapot, hogy nincs (és nem is lesz egykönnyen) **anyagi erőforrás**, pl. AI-s hardverre, kutatásra  
+\- az időnyomást, ahol azonnali eredmények kellenek (mint fociban egy edzőtől)  
+\- az országok közti versenyhelyzetet: minden **másolható best practice-t** gyorsan beépítenek mások is
 
 ---
 
-## Az AI-analógiám a problémához
-
-- Egy-egy ember **sosem elég okos ÉS döntésképes** egyszerre, hogy kirángasson egy országot  
-- Kötelezőnek látszik a **munkamegosztás** – időben is elnyújtva  
-- Mint az IT-ben: **párhuzamosodás** a megoldás
-
-Akkor jó, ha:
-
-1. Egy irányban történik az ország szekerének húzása – a **hozzáadott értékek összegzési maximalizálásával**  
-2. Úgy, hogy **minimalizált overhead** mellett
+#### Ami érdekel:  
+\- ha **tiszta lap**pal indulna Magyarország valamikor, valami okból kifolyólag, a kedvezőtlen feltételek között,  
+\- mik lehetnek **kitörési pontok**?  
+\- Kifejezetten **NEM brute force** alapokon, hogy pl.: majd jobb AI modelleket csinál és jobb lesz még az USÁ-nál is Magyarország,  
+\- hanem **kanyarban előzőset** ("á lá agenciálisat"), olyan területre fókuszálva, ami mindenki hanyagol ilyen-olyan okok miatt.  
 
 ---
 
-### Overhead-féleségek:
+## Az AI-analógiám a problémához  
+Az én AI-s analógiám ez lenne a problémához:  
+\- Egy-egy ember sosem tud elég okos ÉS döntésképes lenni, hogy kirángasson egy országot.  
+\- Kötelezőnek látszik a munkamegosztás, időben jelentősen el is nyújtva:  
+\- IT-ben lásd párhuzamosodás ILLETVE
+\- Az emberi közösségekben, lásd a szubszidiaritás és decentralizálás elveit.  
 
-1. Drágább költség melletti párhuzamosodás  
-2. A párhuzamos szálak nem egyenlően terheltek  
-3. A szálak **egymást akadályozzák**, sőt akár **roncsolják** egymás teljesítményét (pl. értelmetlen társadalmi viták)
+### Akkor jó, ha:
+\- **egy irány**ba történik az ország szekerének húzása   
+\- a **hozzáadott értékek összegzési maximalizálásával**,  
+\- úgy hogy **minimalizált overhead.**  
 
----
+#### Van pár overhead-féleség:  
+\- drágább költség melletti párhuzamosodás,  
+\- a párhuzamos szálak nem egyenlően terheltek  
+\- a szálak egymást akadályozzák, sőt akár roncsolják egymás teljesítményét (emberi közösségben pl.: értelmetlen sehova nem vezető vitákkal)  
 
-## KONKLÚZIÓ
-
-Kitörési pont lehet talán:
-
-- az **egyénieskedés és illúziókergetés helyett**  
-- a **közös, osztott értékképzés**,  
-- ahol **pusztító energiák nélkül** minden társadalmi elemnek helye lehet
+### KONKLÚZIÓ:  
+Kitörési pont lehet talán  
+\- az egyénieskedés, illuziókergetés helyett  
+\- a közös, osztott értékképzés,  
+\- ahol pusztító energiák nélkül mindennek helye van a társadalomban.  
 
 ---
 
 ## Kérem a kritikád
-
-- A fenti gondolatsorhoz keresem az **alátámasztó és ellenző érveléseket**  
-- Törekedj az igazság talaján maradva a **legteljesebb kritikára**  
-- Egy ellenérv lehet:  
-  – néha könnyebb **pénzhez jutni**, mint a társadalom mentalitását megváltoztatni
+\- A fenti gondolatsorhoz keresem az **alátámasztó és ellenző érveléseket**  
+\- Törekedj az igazság talaján maradva a **legteljesebb kritikára**  
+\- Egy ellenérv lehet: néha könnyebb **pénzhez jutni**, mint a társadalom mentalitását megváltoztatni
 
 ---
 
 ## Zárókérdés
 
 Tudsz-e **jobb, reálisabb, megvalósíthatóbb nem-másolható országstratégiát** ajánlani, mint a fenti agenciális (kanyarban előző) megközelítés?
-
 
 
 ## ChatGPT
