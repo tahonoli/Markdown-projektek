@@ -2,7 +2,8 @@
 
 ## User
 
-\* Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
+\* Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése :
+https://openai.com/index/introducing-deep-research/   
 
 Arról ad hírt többekközt, hogy a  
 (1) Humanitys Last Exam benchmark kiértékelésénél; míg az önmagában álló o1 modell 9,1-et kap csak, addig a Deep Research 26,1-et, ami bődületes nagy - közel 3x-szoros - túlteljesítés  
@@ -11,19 +12,17 @@ Arról ad hírt többekközt, hogy a
 Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak, így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyíltforrrásúval (smolagents).   És a Gaiai agenciális benchmarkban 24 órán belül a 3.helyet sikerült így megszerezni.   
 A történetből számomra az a következtetés adódik, hogy nemcsak egyedül az AI modelleket lehet fejleszteni, hanem párhuzamosan más skill-eket is, amilyen az agencialitás, amik összesítés után jobb eredményekre vezethetnek.
 
-https://openai.com/index/introducing-deep-research/ 
+\* Mint korábbi beszélgetéseinkből tudhatod nagyon szeretek analógiákban gondolkodni, egyszerűsítés és megértés óhajaival. 
+Van egy régi nagy fixa ideám, amit most megosztanék veled.
+Azt sejtem, hogy annak megoldására analógia lehet a fenti agenciális kiterjesztés megközelítési módja. 
 
-\* Mint korábbi beszélgetéseinkből tudhatod nagyon szeretek analógiákban gondolkodni, egyszerűsítés és megértés óhajaival. Van egy régi nagy fixa ideám, amit most megosztanék veled. Azt sejtem, hogy annak megoldására analógia lehet a fenti agenciális kiterjesztés megközelítési módja. 
+\* **Magyarország**, szerintem: 
+\- kicsi, a népek sokaságának nagy tengerében.   
+\- anyagilag, szellemileg, lelkileg, társadalmilag (mint hálózat) kifosztott, leépített, roncsolódott.   
+\- hiába EU-tag, EU-n belül többtíz mutatóban a legutolsó (elötti) helyre küzdötte le magát, szívós és kitartó munkával, az utóbbi 15 évben minimum.   
 
-* **Magyarország**, szerintem: 
-
-- kicsi, a népek sokaságának nagy tengerében. 
-
-- anyagilag, szellemileg, lelkileg, társadalmilag (mint hálózat) kifosztott, leépített, roncsolódott. 
-
-- hiába EU-tag, EU-n belül többtíz mutatóban a legutolsó (elötti) helyre küzdötte le magát, szívós és kitartó munkával, az utóbbi 15 évben minimum. 
-
-* Az én **nagy kérdés**em, hogy a minél reálisabb helyzetértékelésre törekedés után, a fentiekben jellemzett Magyarország, milyen könnyen nem másolható országstratégiával tudna kitörni sanyarú helyzetéből, figyelembevéve, hogy az AI is, más országok is fejlődnek. Nagyon fontos, hogy 
+\* Az én **nagy kérdés**em, hogy a minél reálisabb helyzetértékelésre törekedés után, a fentiekben jellemzett Magyarország, milyen könnyen nem másolható országstratégiával tudna kitörni sanyarú helyzetéből, figyelembevéve, hogy az AI is, más országok is fejlődnek.   
+Nagyon fontos, hogy 
 
 - Nem a problémák gyökéroki megfejtését keresem, akkor sem, ha a terápia a diagnózis után szokott következni. 
 Ennek oka, hogy már a diagnózis is megoldhatatlan vitákba tudna csapni és ez akadályoz bármilyen terápia kiválasztását és megkezdését. 
