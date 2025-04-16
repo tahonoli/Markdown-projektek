@@ -7,8 +7,8 @@ Az alábbi OpenAI linken található a cég saját agent-es Deep Research-ének 
 https://openai.com/index/introducing-deep-research/
 
 Arról ad hírt többek közt, hogy a **Humanity’s Last Exam** benchmark kiértékelésénél:  
-- míg az önmagában álló `o1` modell **9,1** pontot kap csak,  
-- addig a **Deep Research** **26,1** pontot ér el,  
+\- míg az önmagában álló `o1` modell **9,1** pontot kap csak,  
+\- addig a **Deep Research** **26,1** pontot ér el,  
 ami bődületesen nagy – közel **3-szoros túlteljesítés**.  
 De az `o3 mini` high teljesítményére is ráduplázott.
 
@@ -17,8 +17,8 @@ Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak,
 És a **Gaia-i agenciális benchmarkban** 24 órán belül a **3. helyet** sikerült így megszerezni.
 
 A történetből számomra az a következtetés adódik, hogy:  
-- nemcsak magukat az AI modelleket lehet fejleszteni,  
-- hanem párhuzamosan más skill-eket is, amilyen az **agencialitás**,  
+\- nemcsak magukat az AI modelleket lehet fejleszteni,  
+\- hanem párhuzamosan más skill-eket is, amilyen az **agencialitás**,  
 amelyek **összesítés után jobb eredményekhez** vezethetnek.
 
 ---
