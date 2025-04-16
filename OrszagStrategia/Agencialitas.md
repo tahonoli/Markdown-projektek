@@ -2,7 +2,7 @@
 
 ## User
 
-* Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
+__ Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
 
 Arról ad hírt többekközt, hogy a 
 
