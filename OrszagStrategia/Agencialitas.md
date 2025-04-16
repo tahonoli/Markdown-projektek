@@ -24,9 +24,11 @@ A történetből számomra az a következtetés adódik, hogy:
 ---
 
 ## Egy analóg gondolat: Magyarország kitörési lehetőségei  
-\* Mint korábbi beszélgetéseinkből tudhatod, nagyon szeretek **analógiákban gondolkodni**, az egyszerűsítés és megértés óhajával.  
-\* Van egy **régi nagy fixa ideám**, amit most megosztanék veled.  
-\* Azt sejtem, hogy annak **megoldására** analógia lehet a fenti agenciális kiterjesztés megközelítési módja.  
+
+### Előzmény:  
+\- Mint korábbi beszélgetéseinkből tudhatod, nagyon szeretek **analógiákban gondolkodni**, az egyszerűsítés és megértés óhajával.  
+\- Van egy **régi nagy fixa ideám**, amit most megosztanék veled.  
+\- Azt sejtem, hogy annak **megoldására** analógia lehet a fenti agenciális kiterjesztés megközelítési módja.  
 
 ### Magyarország, szerintem:
 \- **kicsi**, a népek sokaságának nagy tengerében  
