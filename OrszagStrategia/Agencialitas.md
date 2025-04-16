@@ -2,21 +2,18 @@
 
 ## User
 
-__ Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
+\* Az alábbi OpenAI linken található a cég saját agent-es **Deep Research**-ének blogbejegyzése 
 
-Arról ad hírt többekközt, hogy a 
+Arról ad hírt többekközt, hogy a  
+(1) Humanitys Last Exam benchmark kiértékelésénél; míg az önmagában álló o1 modell 9,1-et kap csak, addig a Deep Research 26,1-et, ami bődületes nagy - közel 3x-szoros - túlteljesítés  
+(2) De az o3 mini high teljesítményére is ráduplázott.   
 
-(1) Humanitys Last Exam benchmark kiértékelésénél; míg az önmagában álló o1 modell 9,1-et kap csak, addig a Deep Research 26,1-et, ami bődületes nagy - közel 3x-szoros - túlteljesítés
-
-(2) De az o3 mini high teljesítményére is ráduplázott. 
-
-Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak, így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyíltforrrásúval (smolagents). És a Gaiai agenciális benchmarkban 24 órán belül a 3.helyet sikerült így megszerezni. 
-
+Mivel mind az OpenAI modellek, mind a Deep Research zárt forrásúak, így a HuggingFace megpróbálta legalább az agencialitást kiváltani nyíltforrrásúval (smolagents).   És a Gaiai agenciális benchmarkban 24 órán belül a 3.helyet sikerült így megszerezni.   
 A történetből számomra az a következtetés adódik, hogy nemcsak egyedül az AI modelleket lehet fejleszteni, hanem párhuzamosan más skill-eket is, amilyen az agencialitás, amik összesítés után jobb eredményekre vezethetnek.
 
 https://openai.com/index/introducing-deep-research/ 
 
-Mint korábbi beszélgetéseinkből tudhatod nagyon szeretek analógiákban gondolkodni, egyszerűsítés és megértés óhajaival. Van egy régi nagy fixa ideám, amit most megosztanék veled. Azt sejtem, hogy annak megoldására analógia lehet a fenti agenciális kiterjesztés megközelítési módja. 
+\* Mint korábbi beszélgetéseinkből tudhatod nagyon szeretek analógiákban gondolkodni, egyszerűsítés és megértés óhajaival. Van egy régi nagy fixa ideám, amit most megosztanék veled. Azt sejtem, hogy annak megoldására analógia lehet a fenti agenciális kiterjesztés megközelítési módja. 
 
 * **Magyarország**, szerintem: 
 
