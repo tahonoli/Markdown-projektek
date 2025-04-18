@@ -5,7 +5,7 @@ A fő téma, hogy Trump "orosz asset"-e vagy sem. Publikus, kevés és homályos
 
 1.álláspont (sarkítva): Trump "normál üzemmenet" része, tulajdonképpen csak kicsit más, mint Biden, hatásmechanizmust tekintve. Ami perdöntő az az intézményrendszer, és annak hosszútávú stabilitása. Egyetlen ember nehezen tudja ezt sarkaiból kiforgatni.  
 
-2.álláspont (sarkítva): Annyira durva történések vannak Trump elmúlt heteiben, annyi kárt csinált, hogy mozizunk valamiféle "beszakadás"-t (analógia: tőzsde-beszakadás), amolyan összeomlás feelinggel.  
+2.álláspont (sarkítva): Annyira durva történések vannak Trump elmúlt heteiben, annyi kárt csinált, hogy mozizunk valamiféle "beszakadás"-t (analógia: tőzsde-beszakadás), amolyan egyoldalú egyensúlyt bontó, összeomlás feelinggel.  
 
 Dőlnek ránk a publikus Trump-i infók a médiából (orosz/Putyin vonatkozásúak).  Amikből szeretnénk eldönteni, hogy Trump inkább IGEN avagy inkább NEM "orosz asset"-e. Feladat tehát magunk számára értelmezni egy-egy hírt: csak kicsit más a helyzet, mint mondjuk Biden alatt, a normál keretek között, avagy durva beszakadás látszik, zéró vagy nagyon kevés biztató jellel.  
 
