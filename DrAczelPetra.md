@@ -199,7 +199,7 @@ Utolsó kérdéseim:
 Jó kérdésekre releváns válaszokat ad az index?  
 Nem akar-e valami olyat elfedni, hogy Magyarország mint potens jövőjű országnak jöjjön ki, Orbán Viktornak "köszönhetően"?  
 Holott a napi valóság érzékelése pont evvel megy szembe.  
-Amúgy MOME volt az első modellváltó egyetem Magyarországon, úgyhogy a döntéshozók lecserélődtek Fideszes hűséges potentátokra.  
+Amúgy MOME volt az első modellváltó egyetem Magyarországon, úgy, hogy a döntéshozók lecserélődtek Fideszes hűséges potentátokra.  
 Tartod továbbra is, hogy nem manipulációs történet az index?  
 
 ## ChatGPT
