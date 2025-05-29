@@ -8,7 +8,7 @@ MarkMyProfessor 34 db értékelése alapján:
 * Felkészültség: 4.56  
 * Előadásmód: 4.71  
 
-YT-videó pozicionbálva:
+YT-videó pozicionálva:
 Dr. Aczél Petra a FutureTalks Krizsó Szilviával, a Trade Magazin üzleti podcastjában IV./12. adás
 https://www.youtube.com/watch?v=y8gBJW1MQ1A&t=1606s
 
