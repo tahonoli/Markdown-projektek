@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=y8gBJW1MQ1A&t=1606s
 
 ## User
 \* Mennyire látsz bele ebbe a témába: "Future Potential Index"?  
-\* Mekkora marhaság ez, politikailag esetleg elfogultsággal terhelten?    
+\* Mekkora marhaság ez, politikailag esetleg elfogultsággal terhelten?     
 \* Hogyan értékelnéd dr.Aczél Petra tudományos tevékenységét?  
 \* Hogyan értékeled a fentebb linkelt videóból ezt a bekezdését a tudós asszonynak? 
 Hogyan kellene érteni a számológépes analógiát, mert nekem nagyon nagy marhaságnak tűnik, így ebben a formában .  
