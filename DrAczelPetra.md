@@ -8,9 +8,9 @@ MarkMyProfessor 34 db értékelése alapján:
 * Felkészültség: 4.56  
 * Előadásmód: 4.71  
 
-YT-videó pozicionálva:
-Dr. Aczél Petra a FutureTalks Krizsó Szilviával, a Trade Magazin üzleti podcastjában IV./12. adás
-https://www.youtube.com/watch?v=y8gBJW1MQ1A&t=1606s
+YT-videó pozicionálva:  
+Dr. Aczél Petra a FutureTalks Krizsó Szilviával, a Trade Magazin üzleti podcastjában IV./12. adás  
+https://www.youtube.com/watch?v=y8gBJW1MQ1A&t=1606s  
 
 ## User
 \* Mennyire látsz bele ebbe a témába: "Future Potential Index"? Mekkora marhaság ez, politikailag esetleg elfogultsággal terhelten?   
