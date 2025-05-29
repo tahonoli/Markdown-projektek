@@ -129,7 +129,7 @@ Ez egy többrétegű kérdés, úgyhogy strukturáltan válaszolok.
 Ha szeretnéd, szívesen _átdolgozom a bekezdést_ úgy, hogy jobban állja a tudományos és logikai kritikát.
 
 ## User
-Akor pontosítanék "Future Potential Index" témában   
+Akkor pontosítanék "Future Potential Index" témában   
  \*\*\*\*  
  Itt van a "Future Potential Index" legfrissebb kiadása.  
  https://api.mome.hu/uploads/Future_Potential_Index_2024_6a1496aff8.pdf  
