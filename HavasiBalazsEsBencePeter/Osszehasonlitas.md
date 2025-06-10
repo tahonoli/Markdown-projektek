@@ -7,7 +7,7 @@
 | **Grade**           | C+              | C-                 |
 | **Music Rank**      | 899             | 1358               |
 
-
+# **Perplexity Deep Research:**
 # **Havasi Balázs és Bence Péter zeneszerzői munkásságának összehasonlító elemzése**
 
 ## **Bevezetés**  
