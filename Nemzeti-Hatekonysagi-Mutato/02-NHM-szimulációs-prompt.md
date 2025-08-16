@@ -129,12 +129,12 @@ Kontextus: nincs egységes NHM-mutató a szakirodalomban → kísérleti, de tra
 **2. Elméleti háttér**
 NHM × Theory of Change integráció → az általunk kidolgozott 8 pillér (input–átalakítás–output–fenntarthatóság).  
 Rögzíteni, hogy ezek pillérszinten is értékelendők, nem csak aggregált KPI.  
-ToC-leképezés: Inputok (1–2) → Folyamat/Átalakítás (3–4) → Output/Outcome (5–6) → Kockázati korrekció & Adaptáció (7–8)
-    Erőforrás- és adottságbázis (INPUT)  
-    * Mit mér: humán, tőke, digitális/infrastruktúra, természeti/energia-adottság.  
-    * Must-have: (i) képzett munkaerő: felsőfokú arány, PISA; (ii) tőkeállomány/fő vagy bruttó állótőke-képzés; (iii) szélessáv + logisztikai index; (iv) energiaimport-függés.  
-    * Nice-to-have: egészségben eltöltött évek, ipari villamosenergia-ár.  
-    Intézményi minőség & jogállamiság (INPUT)  
+ToC-leképezés: Inputok (1–2) → Folyamat/Átalakítás (3–4) → Output/Outcome (5–6) → Kockázati korrekció & Adaptáció (7–8)  
+    **Erőforrás- és adottságbázis (INPUT)**  
+    - Mit mér: humán, tőke, digitális/infrastruktúra, természeti/energia-adottság.  
+    - Must-have: (i) képzett munkaerő: felsőfokú arány, PISA; (ii) tőkeállomány/fő vagy bruttó állótőke-képzés; (iii) szélessáv + logisztikai index; (iv) energiaimport-függés.  
+    - Nice-to-have: egészségben eltöltött évek, ipari villamosenergia-ár.  
+    **Intézményi minőség & jogállamiság (INPUT)**  
     Mit mér: kormányzati hatékonyság, közbeszerzés minősége, korrupció-kockázat.  
     Must-have: WGI Government Effectiveness, Rule of Law; TI-CPI.  
     Nice-to-have: bírósági átfutási idők, közbeszerzési verseny mutatók.  
