@@ -6,7 +6,7 @@ Az alábbi végső, letisztult, teljes, szimulációs prompt LLM-barát módon v
     
 *   **copy–paste ready**.
 
-**PART-01: Promtp**
+## PART-01: Prompt
 
 NHM Szimulációs Prompt
 =======================
@@ -117,7 +117,7 @@ A Python kód legyen jól kommentált: tartalmazza mind a felhasználói logiká
 🔚 **Instrukció**  
 Most hajtsd végre a teljes folyamatot a fenti sorrendben, és a végén mutasd meg a végső NHM-értékeket, az összes kért kimenetet és a dokumentációt.
 
-**PART-02: Manuálisan összeállított gondolkodási dokumentáció / prompt-váz, a szimulációt támogatandó (csatolmányban befűzve)**
+## PART-02: Manuálisan összeállított gondolkodási dokumentáció / prompt-váz, a szimulációt támogatandó (csatolmányban befűzve)
 
 Prompt-váz elemjegyzék
 
@@ -215,11 +215,4 @@ Egyértelműen strukturált output:
 * Szenzitivitási riport,
 * Vakfolt-lista.
 Dokumentáció a minél teljesebb rekonstruálhatóságot megtámogatandó
-
-
-
-
-
-
-
 
