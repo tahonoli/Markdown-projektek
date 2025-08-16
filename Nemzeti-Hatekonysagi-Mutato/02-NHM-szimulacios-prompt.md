@@ -115,7 +115,31 @@ A Python kód legyen jól kommentált: tartalmazza mind a felhasználói logiká
 * * *
 
 🔚 **Instrukció**  
-Most hajtsd végre a teljes folyamatot a fenti sorrendben, és a végén mutasd meg a végső NHM-értékeket, az összes kért kimenetet és a dokumentációt.
+Most hajtsd végre a teljes folyamatot a fenti sorrendben, és a végén mutasd meg a végső NHM-értékeket, az összes kért kimenetet és a dokumentációt.  
+  
+Futási idő és erőforrás-korlátok  
+– Célszint: a teljes szimuláció fusson le legfeljebb 60 percen belül.  
+– Ennek érdekében optimalizálj:  
+  • k-fold = 10 maradjon, de a metrika-dropout mértéke legyen max. 20%.  
+  • PCA-t 1 komponensre korlátozd, SVD-t a legkisebb szükséges mátrixon futtasd.  
+  • Shapley/variancia-hozzájárulás csak pillér-szinten, metrikaszint helyett.  
+  • Ábrákból max. 3 készülhet (NHM-oszlop, hozam–kockázat 2D, pillérhatás).  
+  • Ne használj bootstrapet, csak ha marad idő (deadline-ig early stop).  
+  
+– Ha bármely részfeladat becslésed szerint 10 percnél tovább tartana:  
+  • Válts könnyített módszerre (pl. kvantil-helyett min–max, metrikaszám 12→8),  
+  • vagy csökkentsd a számítási terhet (pl. leave-one-metric-out → csak top-5 metrika),  
+  • logolj egy „DEGRADED_MODE” megjegyzést a riportban.  
+  
+– Ha a teljes futás még így sem férne bele a 60 percbe:  
+  • Állj meg a következő „safe checkpointnál”: normalizált adatok + NHM (ensemble) + k-fold összegzés + pillér-szenzitivitás (csak „minden közepes, kivéve X”).  
+  • Add vissza a már elkészült CSV-ket és rövidítsd a dokumentációt.  
+  • Javasolj 3 konkrét promptmódosítást a következő futáshoz (pl. metrikák száma, szenzitivitás-sűrűség, ábrák elhagyása).  
+  
+– Reprodukálhatóság:  
+  • Használj fix véletlenmagot (seed=42), és írd ki a seedet a jelentés elején.  
+  • Írd ki az összes fő hyperparamétert (normalizálás, súlyozás, k-fold, dropout).  
+
 
 ## PART-02: Manuálisan összeállított gondolkodási dokumentáció / prompt-váz, a szimulációt támogatandó (csatolmányban befűzve)  
 
@@ -216,3 +240,17 @@ Egyértelműen strukturált output:
 * Vakfolt-lista.  
 Dokumentáció a minél teljesebb rekonstruálhatóságot megtámogatandó  
 
+## PART-03: Praktikus tippek, ha még mindig nem futna szerver-oldalon a szimuláció
+
+Pár praktikus tipp (miért segít és mit érdemes még előírni)
+===========================================================
+*   **Kompromisszumok sorrendje** (gyorsulás hatása növekvő sorrendben):
+    – metrikaszám 12→8, 2) leave-one-metric-out csak top-5 metrikára,
+    – Shapley-szerű hozzájárulás csak pillérszinten, 4) egyféle normalizálás (min–max),
+    – ábrák számának korlátozása, 6) logolás részletességének csökkentése.
+*   **Időérzékeny checkpointok**: kérd meg, hogy 20., 40. és 55. percnél „checkpoint” kimenetet készítsen (addig elkészült CSV-k + rövid status).
+*   **Determináltság**: fix `seed`, rögzített sorrend (országok, metrikák), hogy a „gyorsított” futás ugyanazt az eredményt adja újra.
+*   **Javasolt későbbi gyorsítások** (ha legközelebb is szűk az időkeret):  
+    – Peer-csoportot szűkíteni (pl. csak HU–PL),  
+    – k-fold továbbra is 10, de a dropout 20%→10%,  
+    – szenzitivitást csak pillérszinten futtatni, metrikaszinten nem.
