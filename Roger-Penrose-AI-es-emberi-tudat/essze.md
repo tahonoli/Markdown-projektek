@@ -1018,12 +1018,7 @@ Az AI tehát sosem lesz tudatos a mai értelemben vett számítógépes keretek 
 
 👉 Ezzel a 10 részes ív lezárult.  
 
-
-## User
-Igen, kérem
-
-## ChatGPT
-Íme a **rövid TL;DR összefoglaló**, laikusok számára, 10 pontban:
+### ZÁRÁS: Íme a rövid TL;DR összefoglaló 10 pontban:
 
 * * *
 
