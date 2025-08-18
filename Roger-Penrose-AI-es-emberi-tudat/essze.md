@@ -1058,7 +1058,6 @@ Igen, kérem
 
 * * *
 
-```markdown
 # 1. táblázat: Logikai és tudományos érvek
 
 | Téma                  | Penrose állítása                                                                 | Mai AI (LLM-ek, pl. ChatGPT)                                   | Érvek mellette (Penrose)                                                                 | Érvek ellene (kritikusok)                                                                 | Filozófiai-tudományos tét                                                       | Jövő-szcenárió                                                                 |
@@ -1068,7 +1067,6 @@ Igen, kérem
 | Tudat természete      | A tudat nem számítható, kvantumfizikai alapú jelenség.                           | Nincs tudat, nincs belső élményvilág.                          | Megértéshez tudat kell; a tudat fizikai törvényekből ered.                                 | Tudat talán komplex algoritmusokból is emergálhat, nem kell kvantum.                        | A tudat fizikai alapjának kérdése: algoritmus vagy valami több?                | Tudatosság mesterséges úton nem reprodukálható, csak biológiaiban.             |
 | Kvantumfizika szerepe | A hullámfüggvény összeomlása nem-számítható; ez adja a tudat alapját.             | AI klasszikus számításon fut; nincs hozzáférése kvantumfolyamatokhoz. | Egyetlen ismert fizikai nem-computable jelenség az összeomlás – ez lehet a kulcs.          | Nem bizonyított, hogy a kvantumösszeomlás szerepet játszik a tudatban.                      | Fizika mélye és tudat kapcsolata.                                               | Kvantum-számítógépekben sem lesz automatikusan tudat, hacsak nincs új fizika. |
 | Agy és biológia       | Mikrocsövek kvantumfolyamatokat hordozhatnak → Orch-OR modell.                   | AI nem biológiai, nincs ilyen szerkezete.                       | Biológiai rendszer képes lehet kvantumállapotokat fenntartani.                             | Mikrocsövek tudati szerepére nincs erős kísérleti bizonyíték.                               | Biológiai specialitás-e a tudat, vagy bárhol megjelenhet?                      | Ha igaz, tudat csak biológiai vagy bio-szerű rendszerekben jön létre.          |
-```
 
 * * *
 
@@ -1076,7 +1074,6 @@ Igen, kérem
 
 * * *
 
-```markdown
 # 2. táblázat: Filozófiai és társadalmi dimenziók
 
 | Téma                  | Penrose állítása                                                                 | Mai AI (LLM-ek, pl. ChatGPT)                                   | Érvek mellette (Penrose)                                                                 | Érvek ellene (kritikusok)                                                                 | Filozófiai-társadalmi tét                                                     | Jövő-szcenárió                                                                 |
@@ -1086,7 +1083,6 @@ Igen, kérem
 | Ember–AI viszony      | Ember marad a központban, mert csak neki van tudata és megértése.                 | AI sok folyamatot átvesz, de tudat nélkül.                      | Embernek meg kell őriznie vezető szerepét.                                                | AI túlértékelése veszélyes: emberek elhiszik, hogy „értelmes”.                              | Ki a „szubjektum” a technológiában?                                             | Ember és AI kiegészíti egymást, de nem lesz egyenrangú kapcsolat.              |
 | Etikai dimenzió       | Veszély az, ha a tudat nélküli AI-ra emberi tulajdonságokat vetítünk.             | AI manipulálhat, ha rossz kezekben van.                         | Tisztázni kell: AI sosem alany, mindig tárgy.                                             | Ha túl szigorúan ragaszkodunk ehhez, elnézhetjük a valós kockázatokat.                     | Ember felelőssége a döntésekért.                                                | Etikai szabályozás nélkül az AI káros hatású lehet.                            |
 | Kozmológiai távlat    | A tudat az univerzum mély törvényeinek része.                                    | AI-nak nincs kozmikus beágyazottsága.                          | A világegyetem nem teljesen számítható; a tudatnak helye van benne.                       | Erősen spekulatív, kevés közvetlen bizonyíték.                                              | Kozmosz és tudat kapcsolata → az ember helye a világban.                       | Tudat kutatása = kozmológia kutatása is.                                      |
-```
 
 * * *
 
