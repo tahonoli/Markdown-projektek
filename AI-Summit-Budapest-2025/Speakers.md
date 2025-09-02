@@ -156,9 +156,9 @@
 | Dr. Németh Gergely | vezérigazgató, Védelmi Innovációs Kutatóintézet |
 | Ocskay László | ügyvezető, OANDER Media Kft. |
 | Dr. Olivia J. Erdelyi (NZL) | Professor | Partner | Auditor, University of Canterbury & Bonn, PHI Institute, SGS |
-| Osbáth Norbert | alapító, vezérigazgató, OXO Technologies Holding Nyrt. |
-| Oszkó Péter | irodalomtörténész, egyetemi adjunktus, Pázmány Péter Katolikus Egyetem BTK |
-| Dr. Osztroluczky Sarolta | egyetemi docens, PPKE |
+| Osbáth Norbert | N/A |
+| Oszkó Péter | alapító, vezérigazgató, OXO Technologies Holding Nyrt.  |
+| Dr. Osztroluczky Sarolta | irodalomtörténész, egyetemi adjunktus, Pázmány Péter Katolikus Egyetem BTK |
 | Pais József | ügyvezető igazgató, Pappas Autó Magyarország Kft. |
 | Pajor Attila | ügyvezető igazgató, WPP Media |
 | Prof. Dr. Palkovics László | mesterséges intelligenciáért felelős kormánybiztos |
@@ -239,9 +239,9 @@
 | Weiler Péter | képzőművész |
 | Ziegler Gábor | vezérigazgató, Indamedia Network Zrt. |
 | Zoltan Istvan (USA) | jövőkutató, politikai jelölt, AI-szakértő |
-| Zsiday Viktor | vezető oktató, MCC |
-| Zulik Ákos | űrtechnológiai vezető, 4iG Űr és Védelmi Zrt. |
-| Zábori Balázs | tudományos főmunkatárs, NKE |
+| Zsiday Viktor | N/A |
+| Zulik Ákos | vezető oktató, MCC |
+| Zábori Balázs | űrtechnológiai vezető, 4iG Űr és Védelmi Zrt. |
 | Zámbó Anna | tartalmi igazgató, Republic Group |
-| Ződi Zsolt | nemzetközi partnerek |
-| Árokszállási Zoltán | tudományos főmunkatárs, NKE |
+| Ződi Zsolt | tudományos főmunkatárs, NKE |
+| Árokszállási Zoltán |  |
